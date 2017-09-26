@@ -1,0 +1,16 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+md-grid-tile {
+    background: lightblue;
+}
+
+.demo-toolbar {
+    padding: 6px;
+}
+
+.demo-toolbar-icon {
+    padding: 0 14px;
+}
+
+.demo-fill-remaining {
+    flex: 3 1 auto;
+}
