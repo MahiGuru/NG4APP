@@ -26,7 +26,8 @@ import { CommonModule } from '@angular/common';
       MdIconModule,
       MatGridListModule,
       MdInputModule,
-      MdFormFieldModule
+      MdFormFieldModule,
+      MatGridListModule
     ], 
     exports: [ 
         BrowserAnimationsModule,
@@ -39,7 +40,8 @@ import { CommonModule } from '@angular/common';
         MdIconModule,
         MatGridListModule,
         MdInputModule,
-        MdFormFieldModule
+        MdFormFieldModule,
+        MatGridListModule
       ], 
   })
   export class MaterialModule { }
